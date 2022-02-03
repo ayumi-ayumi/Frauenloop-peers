@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(216, 240, 216);
+}
+h1, h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+h3 {
+  font-size: 2rem;
+}
+.ayumi {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+}
+.ayumi th {
+  background-color: rgb(226, 219, 219);
+}
