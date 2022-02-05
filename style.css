@@ -7,12 +7,20 @@ h1, h2 {
 }
 h3 {
   font-size: 2rem;
+  text-align: center;
 }
 .ayumi {
   border: 1px solid black;
   border-collapse: collapse;
   padding: 10px;
+  margin: 15px;
 }
 .ayumi th {
   background-color: rgb(226, 219, 219);
 }
+
+.table {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 15px;
