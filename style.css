@@ -4,10 +4,13 @@ body {
 h1, h2 {
   text-align: center;
   font-size: 2rem;
+  color: darkmagenta;
+  color-interpolation-filters: unset;
 }
 h3 {
   font-size: 2rem;
   text-align: center;
+  color: darkorchid;
 }
 .ayumi {
   border: 1px solid black;
